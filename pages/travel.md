@@ -1,6 +1,7 @@
 ---
 title: Travel
 nav_order: 3
+layout: about
 ---
 
 # Travel

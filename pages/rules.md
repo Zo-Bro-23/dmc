@@ -1,6 +1,7 @@
 ---
 title: Rules & Scoring
 nav_order: 4
+layout: default
 ---
 
 # Rules & Scoring

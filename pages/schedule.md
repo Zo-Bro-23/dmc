@@ -1,6 +1,7 @@
 ---
 title: Schedule
 nav_order: 2
+layout: page
 ---
 
 # When and What
