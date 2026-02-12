@@ -1,8 +1,29 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Deerfield Math Competition
+description: The official website for the annual Deerfield Math Competition
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://deerfieldmc.com
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  GitHub: https://github.com/Zo-Bro-23/dmc
+  Registration: https://google.com
+
+aux_links_new_tab: true
+
+nav_external_links:
+  - title: Registration
+    url: https://google.com
+    opens_in_new_tab: true
+  - title: Directions
+    url: https://maps.app.goo.gl/5TqAAxtwvBwHmpuz7
+    opens_in_new_tab: true
+
+logo: "/assets/logo.png"
+
+gh_edit_link: false
+
+ga_tracking: G-JDCSKYNCE8
+
+search_enabled: true
+
+footer_content: "Copyright © 2026 Deerfield Math Competition. All rights reserved."
