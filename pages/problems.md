@@ -6,4 +6,4 @@ layout: page
 
 # Past Problems
 
-## [2025](/assets/problems/2025Problems.pdf)
+## [2025](/assets/problems/2025Problems.pdf) {: .btn .btn-purple }
