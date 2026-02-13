@@ -6,7 +6,7 @@ nav_order: 1
 
 # Deerfield Math Competition
 
-Deerfield Academy will be hosting the DMC in the spring of 2026. The date is set to be TBD, 10 AM.
+Deerfield Academy will be hosting the DMC in the spring of 2026. The date is set to be 25 April this year.
 
 # The Competition
 
