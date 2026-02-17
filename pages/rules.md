@@ -6,8 +6,6 @@ layout: page
 
 # Rules & Scoring
 
-![](/assets/photos/one.jpg)
-
 ## Format
 
 ### Individual Rounds
@@ -39,9 +37,9 @@ layout: page
     - Each team will have a runner who brings problem sets from the scoring table and drops off the team's answers for each set
     - The point value for each problem increases between each set
 
-## Scoring
+![](/assets/photos/one.jpg)
 
-![](/assets/photos/five.jpg)
+## Scoring
 
 ### Individual Rounds
 
@@ -70,3 +68,5 @@ Awards are given for each round and individual and team overall winners.
 - Individual overall winners are determined by the sum of scores in the individual rounds
 - Team overall winners are determined by the sum of scores in the team rounds
 - In case of a tie, the top four individual scores from each team may be taken into account
+
+![](/assets/photos/five.jpg)

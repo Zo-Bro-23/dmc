@@ -6,9 +6,9 @@ layout: page
 
 # Travel
 
-![](/assets/photos/seven.jpg)
-
 The competition will take place at Deerfield Academy. Our campus address is 7 Boyden Lane, Deerfield, MA, 01342.
+
+![](/assets/photos/seven.jpg)
 
 Most of the competition (including registration) will take place in the Koch Center (#15 in the northeast corner of the map below).
 

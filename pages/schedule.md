@@ -6,8 +6,6 @@ layout: page
 
 # When and What
 
-![](/assets/photos/six.jpg)
-
 | Time        | Event          | Location |
 |:-------------|:------------------|:------|
 | 9:30-10:00 AM | Arrival and Registration | Koch Center |
@@ -20,3 +18,5 @@ layout: page
 | 3:30 PM | Awards | Garonzik Auditorium |
 
 For Team General, teams will be put into classrooms and proctored by Deerfield students. Students will get 10 minutes after the allotted exam time to submit their answers to the proctors.
+
+![](/assets/photos/six.jpg)
