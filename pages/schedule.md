@@ -6,6 +6,8 @@ layout: page
 
 # When and What
 
+![](/assets/photos/six.jpg)
+
 | Time        | Event          | Location |
 |:-------------|:------------------|:------|
 | 9:30-10:00 AM | Arrival and Registration | Koch Center |

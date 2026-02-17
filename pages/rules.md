@@ -6,6 +6,8 @@ layout: page
 
 # Rules & Scoring
 
+![](/assets/photos/one.jpg)
+
 ## Format
 
 ### Individual Rounds
@@ -38,6 +40,8 @@ layout: page
     - The point value for each problem increases between each set
 
 ## Scoring
+
+![](/assets/photos/five.jpg)
 
 ### Individual Rounds
 
