@@ -16,10 +16,14 @@ layout: page
 - 8 problems
 - From all high school math topics
 
-#### Individual Relay Round
+#### Countdown Round
 
 - 45 minutes
-- 4 sets of 4 problems each (within a single set, successive problems depend on the solution to the previous)
+- 12 person 1v1 knockout round
+- 3 questions per round
+- Bracket based
+- Buzzer based
+- The bracket decideds individual standings
 
 ### Team Rounds
 
@@ -47,9 +51,9 @@ layout: page
 
 Problems are worth 20, 25, 30, 35, 40, 45, 50, and 55 points for a total of 300 points
 
-#### Individual Relay Round
+#### Countdown
 
-The first set is worth 12, 14, 16, and 18 points. The second set is worth 15, 17, 18, and 20 points. The third set is worth 17, 19, 21, and 23 points. The fourth set is worth 20, 22, 23, and 25 points.
+Three questions per round, each question is worth 1 point and the person with the most points advances
 
 ### Team Rounds
 
