@@ -12,34 +12,34 @@ layout: about
 
 ### Tournament Directors
 
-- Daniel Wareham '24
-- Eric Li '24
-- Alice Zhang '24
-- Kevin Yang '25
+- Torge Blunck '27
+- Katherine Ni '26
+- John Woo '26
+- Kyle Yang '26
 
 ### Problem Czar
 
-Kyle Yang '26
+Jessica Wu '27
 
-### Logistics Director
+### Logistics Directors
 
-Anna Guerrini '25
+Heidi Liang '28, Jewel Suh '28
 
-### Sheets & Slides Sergeant
+### Sheets & Slides (+ Website)
 
-Andy Chen '25
+- Zohan Subhash '26
+- Jasper Gruhl '28
+- Davin Park '29
 
 ### Logistics Organizers
 
-- Baokun Chen '25
-- Katherine Ni '26
-- Andrew Li '27
-- Evan Xie '25
-- Zohan Subhash '26
+- Charles DeSorcy '28
+- Ted Huang '28
+- Jasper Gruhl '28
+- Davin Park '29
 
 ### Photographers
 
-- Ellie Nam '25
 - Albert Yuk '26
 
 ### Faculty Advisor
@@ -48,26 +48,18 @@ Forest Reid
 
 ## Problem Writers
 
-- Eric Li '24
-- Baokun Chen '25
-- Jason Ko '27
-- Anna Guerrini '25
 - Torge Blunck '27
-- Arvin Mou '25
-- John Woo '26
-- Evan Xie '25
-- Kevin Yang '25
-- Melody Zhao '26
-- Andrew Li '27
-- Daniel Wareham '24
+- Charles DeSorcy '28
+- Owen He '26
+- Jason Ko '27
+- Heidi Liang '28
+- Julia Lu '28
+- Charmaine Ma '29
 - Katherine Ni '26
-- Kyle Yang '26
-- Yong Ding '27
-- Genesis Gill '25
+- Davin Park '29
 - Zohan Subhash '26
-- Fev Barinova '24
+- Harry Tran '28
 - Jeremy Tadesse '26
-- Caylah Yang '26
+- John Woo '26
 - Tim Wang '27
-- Alice Zhang '24
-- Rich Zhou '26
+- Kyle Yang '26
