@@ -59,7 +59,7 @@ Problems are worth 20, 25, 30, 35, 40, 45, 50, and 55 points for a total of 300 
 
 #### Team Guts Round
 
-8 rounds of 3 problems worth (7, 9, 10, 12, 13, 15, 16, and 18 points per problem) for a total for 300.
+8 rounds of 3 problems worth (7, 9, 10, 12, 13, 15, 16, and 18 points per problem) for a total for 300 points.
 
 ### Awards
 
