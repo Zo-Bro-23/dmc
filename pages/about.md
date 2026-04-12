@@ -30,11 +30,12 @@ Heidi Liang '28, Jewel Suh '28
 - Zohan Subhash '26
 - Jasper Gruhl '28
 - Davin Park '29
+- Ted Huang '29
 
 ### Logistics Organizers
 
 - Charles DeSorcy '28
-- Ted Huang '28
+- Ted Huang '29
 - Jasper Gruhl '28
 - Davin Park '29
 
