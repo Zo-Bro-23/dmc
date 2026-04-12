@@ -20,6 +20,8 @@ layout: page
 
 - 45 minutes
 - 12 person 1v1 knockout round
+- The top scorer from each school automatically qualifies
+- The remaining spots go to the top individual scorers who didn't automatically qualify
 - 3 questions per round
 - Bracket based
 - Buzzer based
