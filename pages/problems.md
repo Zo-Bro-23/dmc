@@ -33,7 +33,6 @@ layout: page
 <br>
 <span class="fs-6">
 [2023 Answers](/assets/problems/23Ans.pdf){: .btn .btn-purple }
-
 </span>
 
 
